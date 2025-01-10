@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/538420251440709674)](https://discord.com/users/538420251440709674)
 
 <!--
 **Ryn0x8/Ryn0x8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
